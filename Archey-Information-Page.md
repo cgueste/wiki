@@ -1,5 +1,8 @@
 ##Use Cases
-*Transmission  
+###Transmission  
+*Adress - http://archey:9091/transmission/web/#upload 
+
+
 *OpenVPN  
 *Emby Server  
 
