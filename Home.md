@@ -1,4 +1,4 @@
 ##Computers
 * Gemini
-* [Archey](/Archey Information Page)
+* [Archey](/Archey/Archey Information Page)
 * Thor
