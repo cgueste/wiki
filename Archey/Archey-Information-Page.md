@@ -5,7 +5,7 @@
 
 
 *OpenVPN  
-###Emby Server
+###[Emby Server](/Archey/Emby)
 *Address - [192.168.1.2:8096/](http://192.168.1.2:8096/web/home.html)  
 *Samba  
 
