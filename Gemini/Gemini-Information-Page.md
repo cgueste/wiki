@@ -7,4 +7,4 @@
 |Harddrive|1 TB WD Blue|
 |Graphics Card| ?|
 |Keyboard|Corsair Quickfire TK|
-|House|Logitech |
+|Mouse|Logitech |
