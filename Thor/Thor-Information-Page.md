@@ -1,4 +1,5 @@
-#Hardware  
+#Hardware 
+|Table|Table| 
 |---|---|
 |CPU|2x L5630 2.13ghz|
 |Storage| 2x 300gb 10k 2.5 in.;256 SSD Boot Drive|
