@@ -2,7 +2,8 @@
 | | | |
 |-|-|-|
 |__Bold Key__| Value1 |
-| Normal Key | Value2 |
+| Normal Key | Value2 |  
+
 ##Use Cases  
 ###Transmission  
 * Adrress - [archey:9091 ](http://archey:9091/transmission/web/#upload )  
