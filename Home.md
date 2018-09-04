@@ -4,4 +4,4 @@
 * [Thor](Thor/Thor Information Page)
 
 #Other
-*[Services](/Services)
+* [Services](/Services/Services List)
