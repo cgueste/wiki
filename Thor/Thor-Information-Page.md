@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-#Hardware  
-
-#Use Cases  
-
-##VMs  
-
-=======
 #Hardware 
 |Table|Table| 
 |---|---|
@@ -17,6 +9,5 @@
 Dell Poweredge R710 
 #Use Cases  
 ##VMs  
->>>>>>> b4bd1443a20d78f8b192efa8831e636ce5a64ef8
 ###Ubuntu-VM  
 *Gollum - [192.168.1.20:4567](http://192.168.1.20:4567)  
