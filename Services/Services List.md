@@ -1,4 +1,4 @@
 #Services List  
 * [Samba](/Services/Samba)  
-* [Transmission](/Service/Transmission)  
-* [Madsonic](/Service/Madsonic)
+* [Transmission](/Services/Transmission)  
+* [Madsonic](/Services/Madsonic)
