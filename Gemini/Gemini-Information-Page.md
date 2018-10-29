@@ -1,3 +1,5 @@
+<!-- --- title: Gemini -->
+
 #Hardware
 | Column 1 | Column 2 |
 |----------|----------|
