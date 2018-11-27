@@ -4,4 +4,5 @@
 * [Thor](Thor/Thor Information Page)
 
 #Other
-* [Services](/Services/Services List)
+* [Services](/Services/Services List)  
+* [Synology NAS](/NAS/Synology)  
